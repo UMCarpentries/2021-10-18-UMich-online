@@ -11,10 +11,10 @@ latitude: "45"        # decimal latitude of workshop venue (use https://www.latl
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Oct 18-19, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am-4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-instructor: ["instructor one", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Chris Gates", "Dana King", "Irene Morse", "Manish Verma"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Matthew Flickinger", "Marisa Conte", "Grace Kenney"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["damki@umich.edu", "bioinformatics-workshops@umich.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  https://umcoderspaces.slack.com/ # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes:  https://umcoderspaces.slack.com/archives/C02FXE45KQA # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
